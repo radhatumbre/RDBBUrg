@@ -50,6 +50,3 @@ function loginFunction() {
     }
 }
 
-function registerButton(){
-    return 
-}
